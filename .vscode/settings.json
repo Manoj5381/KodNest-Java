@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "displaygitrepository"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
